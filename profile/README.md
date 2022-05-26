@@ -1,5 +1,6 @@
 ## Welcome to the XotoMicro Repo
-> microservice boilerplate. (ask for token if needed)
+> dynamic monolith with microservices boilerplate. 
+> ask for token if needed.
 
 ```shell
 # clone mono repo backend

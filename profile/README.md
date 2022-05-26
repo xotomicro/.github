@@ -1,4 +1,4 @@
-## Welcome to the XotoMicro Repo
+## 🖐🏼 Welcome to the XotoMicro Repo
 > dynamic monolith with microservices boilerplate. 
 
 > ask for token if needed.
